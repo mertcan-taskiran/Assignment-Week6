@@ -1,3 +1,5 @@
+package ThreadlarinYarisi;
+
 import java.util.ArrayList;
 
 public class TekSayilar implements Runnable{
